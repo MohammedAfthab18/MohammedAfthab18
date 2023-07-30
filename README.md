@@ -154,7 +154,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAfthab18&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MohammedAfthab18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -166,7 +165,7 @@
 
 ---
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MohammedAfthab18&label=Profile%20Views&color=0&icon=0&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=MohammedAfthab18&icon=0&color=0)](https://visitcount.itsvg.in"/>
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
