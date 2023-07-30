@@ -160,6 +160,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MohammedAfthab18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MohammedAfthab18&icon=9&color=1)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MohammedAfthab18&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
