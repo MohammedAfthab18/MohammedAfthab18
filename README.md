@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Afthab</h1>
-<h3 align="center">Full-stack web developer | Proficient in HTML, CSS, JavaScript, React.js, Node.js, MySQL | Committed to innovation and user-centric solutions</h3>
+<h3 align="center">Full-stack web and android developer | Proficient in HTML, CSS, JavaScript, React.js, Node.js, MySQL | Flutter , Dart , FireBase| Committed to innovation and user-centric solutions</h3>
 <html>
 <body>
 <h3 align="left">Connect with me:</h3>
