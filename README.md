@@ -2,6 +2,14 @@
 <h3 align="center">Full-stack web and android developer | Proficient in HTML, CSS, JavaScript, React.js, Node.js, MySQL | Flutter , Dart , FireBase| Committed to innovation and user-centric solutions</h3>
 <html>
 <body>
+  <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedafthab18&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedafthab18" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/mohammedafthab18" target="blank"
