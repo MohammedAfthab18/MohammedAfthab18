@@ -8,10 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
   <a href="https://dev.to/mohammedafthab18" target="blank"
     ><img
       align="center"
