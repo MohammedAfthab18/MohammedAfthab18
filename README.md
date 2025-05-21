@@ -1,54 +1,32 @@
-<a href="https://www.enji.dev/work/contact">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
-    <img alt="Enji Kusnadi | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="./header.svg" width="100%" />
-  </picture>
-</a>
+## Hi there! 👋
 
-<header>
-  <div align="center">
-    <a href="https://enji.dev">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=enji.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
-    </a>
-    <a href="https://twitter.com/enjidev">
-      <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-enjidev-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
-    </a>
-    <a href="https://figma.com/@enjidev">
-      <img alt="My Figma Community" src="https://img.shields.io/static/v1?color=%237733ff&label=Figma&message=@enjidev&style=flat&logo=figma&logoColor=ffffff&labelColor=334155">
-    </a>
-  </div>
-</header>
+I'm **Mohammed Afthab**, a passionate developer at **WebTrendz Technologies India Private Limited**. I enjoy crafting innovative solutions and exploring the world of technology. Let's connect and create something amazing together!
 
-<br />
-<br />
+## About Me
 
-<details>
-  <summary><h2>📊 Statistics</h2></summary>
-  <div>
-    <br />
-    <div>
-      <a href="https://github.com/enjidev">
-        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=enjidev&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
-      </a>
-      <br /><br />
-    </div>
-    <div>
-      <a href="https://github.com/enjidev?tab=repositories&q=&type=&language=&sort=stargazers">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&count_private=true" />
-          <img alt="Enji Kusnadi's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
-        </picture>
-      </a>
-      <br /><br />
-      <a href="https://github.com/enjidev?tab=repositories&q=&type=&language=&sort=stargazers">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enjidev" />
-          <img alt="Enji Kusnadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff" />
-        </picture>
-      </a>
-    </div>
-  </div>
-</details>
+I'm based in **Tiruvannamalai**, and I love working with cutting-edge technologies. My journey in tech has been rewarding, and I'm constantly seeking to expand my skill set and contribute to exciting projects.
+
+## Skills & Technologies
+
+js,ts,react,electron,nodejs,materialui,html,css,flutter,py,vscode,tensorflow,webpack,redux,github,sass,php,cs
+
+## Top Projects
+
+- [EEG-Driven-Emotion-Detection-and-Classification](https://github.com/MohammedAfthab18/EEG-Driven-Emotion-Detection-and-Classification): A project that uses EEG data to classify human emotions using machine learning techniques. ⭐ 17 stars
+- [Path-Planning-with-PSO](https://github.com/MohammedAfthab18/Path-Planning-with-PSO): Optimizing UAV path planning to ensure reliable connectivity in challenging environments. ⭐ 1 star
+- [Value-Added-Course](https://github.com/MohammedAfthab18/Value-Added-Course): Machine Learning with R Programming. ⭐ 7 stars
+- [Responsive-Web-design-](https://github.com/MohammedAfthab18/Responsive-Web-design-): A responsive website using HTML, CSS and JS. ⭐ 5 stars
+- [noor_lodge_booking_App](https://github.com/MohammedAfthab18/noor_lodge_booking_App): A mobile application for booking lodges, built using Dart. ⭐ 0 stars
+
+## GitHub Stats
+
+🌟 **Public Repos**: 25  
+👥 **Followers**: 18  
+👣 **Following**: 20  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedAfthab18&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Updated README in [noor_lodge_booking_App](https://github.com/MohammedAfthab18/noor_lodge_booking_App)  
+- Created [NoorLodgeApi](https://github.com/MohammedAfthab18/NoorLodgeApi) repository  
+- Pushed changes to [Path-Planning-with-PSO](https://github.com/MohammedAfthab18/Path-Planning-with-PSO)
