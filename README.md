@@ -13,10 +13,7 @@ Based in **Tiruvannamalai**, I specialize in various programming languages and t
 ## Top Projects
 
 [![EEG-Driven-Emotion-Detection-and-Classification](https://github-readme-stats.vercel.app/api/pin/?username=MohammedAfthab18&repo=EEG-Driven-Emotion-Detection-and-Classification&theme=dark)](https://github.com/MohammedAfthab18/EEG-Driven-Emotion-Detection-and-Classification)
-[![noor_lodge_booking_App](https://github-readme-stats.vercel.app/api/pin/?username=MohammedAfthab18&repo=noor_lodge_booking_App&theme=dark)](https://github.com/MohammedAfthab18/noor_lodge_booking_App)
-[![Docker-and-PHP-Essentials](https://github-readme-stats.vercel.app/api/pin/?username=MohammedAfthab18&repo=Docker-and-PHP-Essentials&theme=dark)](https://github.com/MohammedAfthab18/Docker-and-PHP-Essentials)
-[![Value-Added-Course](https://github-readme-stats.vercel.app/api/pin/?username=MohammedAfthab18&repo=Value-Added-Course&theme=dark)](https://github.com/MohammedAfthab18/Value-Added-Course)
-[![Path-Planning-with-PSO](https://github-readme-stats.vercel.app/api/pin/?username=MohammedAfthab18&repo=Path-Planning-with-PSO&theme=dark)](https://github.com/MohammedAfthab18/Path-Planning-with-PSO)
+
 
 ## GitHub Stats
 🏆 **Public Repos**: 25  
