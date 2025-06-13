@@ -8,7 +8,7 @@ Based in **Tiruvannamalai**, I specialize in various programming languages and t
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,electron,nodejs,mongodb,mysql,py,postman,github,bitbucket,webpack,materialui,bootstrap,androidstudio,flutter,dart,vscode,php,html,css,tensorflow,laravel,docker,deno,nestjs&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,electron,nodejs,mongodb,mysql,py,postman,github,bitbucket,webpack,materialui,bootstrap,androidstudio,flutter,dart,vscode,php,html,css,tensorflow,laravel,docker&perline=12)](https://skillicons.dev)
 
 ## Top Projects
 
