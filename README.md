@@ -31,7 +31,7 @@ I am a Software Engineer with **2 years of production experience** at Webtrendz 
 <td width="40%" align="center">
 
 <!-- Animated GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0D9488&icon_color=0D9488" alt="Afthab's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedAfthab18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0D9488&icon_color=0D9488" alt="Afthab's GitHub Stats" />
 
 </td>
 </tr>
