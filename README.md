@@ -1,28 +1,94 @@
-## Hi there! 👋
+<div align="center">
+  
+  <!-- Animated Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&pause=1000&color=0D9488&center=true&vCenter=true&width=800&height=80&lines=Hi+there,+I'm+Afthab+👋;Software+Engineer+%7C+Mobile+%26+Web+Architect;Building+Enterprise-Grade+Applications;Bridging+Design+and+Engineering" alt="Typing SVG" />
+  </a>
 
-I'm **Mohammed Afthab**, a passionate developer at **WebTrendz Technologies India Private Limited**. I love creating innovative solutions and exploring new technologies. Let's build something great together!
+  <br/>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=0D9488)](#) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0D9488)](#)
+  [![ResearchGate](https://img.shields.io/badge/ResearchGate-0D1117?style=for-the-badge&logo=ResearchGate&logoColor=0D9488)](#)
 
-## About Me
+</div>
 
-Based in **Tiruvannamalai**, I specialize in various programming languages and technologies. I enjoy tackling challenging projects and continuously enhancing my skills in the tech industry. You can find my work across several platforms and repositories.
+<br/>
 
-## Skills & Technologies
+## 👨‍💻 The Engineering Vault
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,electron,nodejs,mongodb,mysql,py,postman,github,bitbucket,webpack,materialui,bootstrap,androidstudio,flutter,dart,vscode,php,html,css,tensorflow,laravel&perline=12)](https://skillicons.dev)
+<table>
+<tr>
+<td width="60%">
 
-## Top Projects
+I am a Software Engineer with **2 years of production experience** at Webtrendz Technologies, specializing in cross-platform mobile architecture (Flutter) and highly scalable frontend ecosystems (React/TypeScript).
 
-[![EEG-Driven-Emotion-Detection-and-Classification](https://github-readme-stats.vercel.app/api/pin/?username=MohammedAfthab18&repo=EEG-Driven-Emotion-Detection-and-Classification&theme=dark)](https://github.com/MohammedAfthab18/EEG-Driven-Emotion-Detection-and-Classification)
+- 🏗️ Currently engineering end-to-end multi-platform applications.
+- 🧠 Published Researcher: *EEG Based Emotion Classification using Deep Learning Models (IJISRT).*
+- 🎓 **B.Tech Computer Science & Engineering** from SRM Institute (9.38 CGPA).
+- ⚡ **Core Philosophy:** Pixel-Perfect Rigor • Architecture First (BLoC/SOLID) • Offline Resiliency.
 
+</td>
+<td width="40%" align="center">
 
-## GitHub Stats
-🏆 **Public Repos**: 25  
-👥 **Followers**: 18  
-➡️ **Following**: 20  
+<!-- Animated GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0D9488&icon_color=0D9488" alt="Afthab's GitHub Stats" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedAfthab18&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAfthab18&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+</tr>
+</table>
 
-## Connect with Me
+<br/>
 
-<a href="https://www.linkedin.com/in/mohammed-afthab-4a8a72220/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://bitbucket.org/dev-work-web-stack/workspace/repositories/" target="_blank" rel="noopener noreferrer"><Icon /> Generic</a>
+## 🛠️ The Arsenal
+
+*Using beautiful animated Skill Icons.*
+
+<div align="center">
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,flutter,tailwind,redux,nodejs,laravel,firebase,aws,git,figma,mysql,mongodb&theme=dark&perline=7" />
+  </a>
+</div>
+
+<br/>
+
+## 🚀 Featured Architecture
+
+<details>
+  <summary><b>🎓 Thiruvel Academy</b> <i>(React, TS, Laravel, Firebase)</i></summary>
+  <br/>
+  Multi-tenant educational dashboard with Clean Architecture, Zod validation, and passwordless authentication. Built for zero-friction exam taking.
+</details>
+
+<details>
+  <summary><b>💰 WT Books</b> <i>(Flutter, Node.js, Hive DB)</i></summary>
+  <br/>
+  Strict offline-first financial ledger. Built with advanced background delta-syncing to resolve Firestore data conflicts upon network restoration.
+</details>
+
+<details>
+  <summary><b>🛥️ Docklyne</b> <i>(Flutter, Firebase)</i></summary>
+  <br/>
+  Scaled a massive cross-platform marketplace for 72,000+ boats handling dynamic pricing algorithms and fleet management without UI latency.
+</details>
+
+<br/>
+
+## 🐍 Activity Graph
+
+<div align="center">
+  <!-- Note: You will need to setup the GitHub Action to generate the snake, but leaving this placeholder image so it looks great immediately -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Design meets engineering."</i><br/>
+  <b>Available for impact.</b>
+</div>
