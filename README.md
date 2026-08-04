@@ -1,9 +1,8 @@
 <div align="center">
   
-  <!-- Fixed Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=40&pause=1000&color=0D9488&center=true&vCenter=true&width=800&height=80&lines=Hi+there,+I'm+Afthab+👋;Software+Engineer+%7C+Mobile+%26+Web+Architect;Building+Enterprise-Grade+Applications;Bridging+Design+and+Engineering" alt="Typing SVG" />
-  </a>
+  <!-- Portfolio Banner Image -->
+  <!-- ⚠️ ACTION REQUIRED: Take a screenshot of your beautiful portfolio Home Page banner, save it as 'banner.png', and upload it to your GitHub repository! -->
+  <img src="banner.png" alt="Afthab Portfolio Banner" width="100%" />
 
   <br/>
   
@@ -31,7 +30,7 @@ I am a Software Engineer with **2 years of production experience** at Webtrendz 
 <td width="40%" align="center">
 
 <!-- Animated GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedAfthab18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0D9488&icon_color=0D9488" alt="Afthab's GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohammedAfthab18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0D9488&icon_color=0D9488" alt="Afthab's GitHub Stats" />
 
 </td>
 </tr>
