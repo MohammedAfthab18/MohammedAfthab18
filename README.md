@@ -1,8 +1,8 @@
 <div align="center">
-  
-  <!-- Portfolio Banner Image -->
-  <!-- ⚠️ ACTION REQUIRED: Take a screenshot of your beautiful portfolio Home Page banner, save it as 'banner.png', and upload it to your GitHub repository! -->
-  <img src="banner.png" alt="Afthab Portfolio Banner" width="100%" />
+
+  <a href="https://mohammed-afthab-portfolio.vercel.app/" target="_blank">
+    <img src="banner.png" alt="Afthab Portfolio Banner" width="100%" />
+  </a>
 
   <br/>
   
