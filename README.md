@@ -7,8 +7,8 @@
 
   <br/>
   
-  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=0D9488)]([https://your-portfolio-link.com](https://mohammed-afthab-portfolio.vercel.app/)) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0D9488)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammed-afthab-4a8a72220/))
+  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=0D9488)](https://mohammed-afthab-portfolio.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0D9488)](https://www.linkedin.com/in/mohammed-afthab-4a8a72220/)
   [![ResearchGate](https://img.shields.io/badge/ResearchGate-0D1117?style=for-the-badge&logo=ResearchGate&logoColor=0D9488)](https://www.researchgate.net/publication/375668956_EEG_Based_Emotion_Classification_using_Deep_Learning_Models)
 
 </div>
