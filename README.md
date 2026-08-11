@@ -43,7 +43,7 @@ I am a Software Engineer with **2 years of production experience** at Webtrendz 
 <div align="center">
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,flutter,dart,nodejs,express,laravel,php,firebase,aws,mysql,mongodb,git,github,figma,postman,vscode&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,flutter,dart,nodejs,express,laravel,php,firebase,aws,mysql,mongodb,git,github,figma,rust,postman,vscode&theme=dark&perline=8" />
   </a>
 </div>
 
