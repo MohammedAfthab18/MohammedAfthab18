@@ -1,97 +1,112 @@
 <div align="center">
 
   <a href="https://mohammed-afthab-portfolio.vercel.app/" target="_blank">
-    <img src="banner.png" alt="Mohammed Afthab — Software Engineer" width="100%" />
+    <img src="banner.png" alt="Afthab Portfolio Banner" width="100%" />
   </a>
 
-  <h3>Software Engineer · Flutter & React/TypeScript · Offline-first mobile systems</h3>
-
-  <a href="https://mohammed-afthab-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=0D9488" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mohammed-afthab-4a8a72220/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0D9488" alt="LinkedIn" /></a>
-  <a href="https://www.researchgate.net/publication/375668956_EEG_Based_Emotion_Classification_using_Deep_Learning_Models"><img src="https://img.shields.io/badge/ResearchGate-0D1117?style=for-the-badge&logo=researchgate&logoColor=0D9488" alt="ResearchGate" /></a>
-  <!-- Add your email so recruiters can reach you in one click: -->
-  <!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0D9488" alt="Email" /></a> -->
+  <br/>
+  
+  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=0D9488)](https://mohammed-afthab-portfolio.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0D9488)](https://www.linkedin.com/in/mohammed-afthab-4a8a72220/)
+  [![ResearchGate](https://img.shields.io/badge/ResearchGate-0D1117?style=for-the-badge&logo=ResearchGate&logoColor=0D9488)](https://www.researchgate.net/publication/375668956_EEG_Based_Emotion_Classification_using_Deep_Learning_Models)
 
 </div>
 
----
+<br/>
 
-## 👋 About me
+## 👨‍💻 The Engineering Vault
 
-I build cross-platform mobile apps in **Flutter** and frontends in **React + TypeScript**, with Laravel, Node.js and Firebase on the backend. I've been shipping production software at **Webtrendz Technologies** since 2024.
+<table>
+<tr>
+<td width="60%">
 
-- 🔭 **Right now:** building end-to-end apps across mobile, web and backend
-- 🧱 **How I work:** architecture first (BLoC, SOLID, Clean Architecture), pixel-accurate UI, and apps that keep working offline
-- 🎓 **B.Tech, Computer Science & Engineering**, SRM Institute (CGPA 9.38)
-- 🧠 Published research on EEG-based emotion classification with deep learning
+I am a Software Engineer with **2 years of production experience** at Webtrendz Technologies, specializing in cross-platform mobile architecture (Flutter) and highly scalable frontend ecosystems (React/TypeScript).
 
----
+- 🏗️ Currently engineering end-to-end multi-platform applications.
+- 🎓 **B.Tech Computer Science & Engineering** from SRM Institute (9.38 CGPA).
+- ⚡ **Core Philosophy:** Pixel-Perfect Rigor • Architecture First (BLoC/SOLID) • Offline Resiliency.
 
-## 🚀 Featured work
+</td>
+<td width="40%" align="center">
 
-| Project | Stack | What I built |
-|---|---|---|
-| **💰 WT Books** | Flutter · Node.js · Hive · Firestore | Offline-first financial ledger. Local writes go to Hive; a background delta-sync pushes changes to Firestore and resolves conflicts when the connection returns. |
-| **🛥️ Docklyne** | Flutter · Firebase | Cross-platform boat marketplace with 72,000+ listings, dynamic pricing and fleet management, built to stay smooth at that catalogue size. |
-| **🎓 Thiruvel Academy** | React · TypeScript · Laravel · Firebase | Multi-tenant education dashboard on Clean Architecture, with Zod-validated forms and passwordless sign-in so students can start exams without friction. |
+<!-- Animated GitHub Stats -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohammedAfthab18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0D9488&icon_color=0D9488" alt="Afthab's GitHub Stats" />
 
-<!-- Tip: link each project name to its repo, live demo or case study, e.g. [**WT Books**](https://github.com/MohammedAfthab18/wt-books) -->
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🛠️ Tech stack
+## 🛠️ The Arsenal
 
 <div align="center">
-
-**Mobile** <br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
-
-**Frontend** <br/>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css&theme=dark" />
-
-**Backend & data** <br/>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,mysql,mongodb,aws&theme=dark" />
-
-**Tools** <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark" />
-
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,flutter,dart,nodejs,express,laravel,php,firebase,aws,mysql,mongodb,git,github,figma,rust,postman,vscode&theme=dark&perline=8" />
+  </a>
 </div>
 
----
+<br/>
 
-## 📜 Research & certifications
+## 🚀 Featured Architecture
 
-**🧠 Publication**
-**[EEG Based Emotion Classification using Deep Learning Models](https://www.researchgate.net/publication/375668956_EEG_Based_Emotion_Classification_using_Deep_Learning_Models)** — *IJISRT, Nov 2023*
-Benchmarked DNN, GRU and LSTM models for classifying emotions from EEG signals, compared with confusion-matrix evaluation.
+I focus on building resilient systems that handle complex state, offline synchronization, and massive scale.
 
-**🏆 Certifications** — Machine Learning Specialization (Stanford University & DeepLearning.AI, Coursera)
-- Supervised Machine Learning: Regression and Classification
-- Advanced Learning Algorithms
-- Unsupervised Learning, Recommenders, Reinforcement Learning
+> ### 🎓 Thiruvel Academy
+> **Tech Stack:** `React` `TypeScript` `Laravel` `Firebase` <br/>
+> Multi-tenant educational dashboard engineered with Clean Architecture. Implemented Zod validation and passwordless authentication for zero-friction exam taking.
 
----
+> ### 💰 WT Books
+> **Tech Stack:** `Flutter` `Node.js` `Hive DB` `Firestore` <br/>
+> Strict offline-first financial ledger. Architected advanced background delta-syncing algorithms to seamlessly resolve Firestore data conflicts upon network restoration.
 
-## 📊 GitHub activity
+> ### 🛥️ Docklyne
+> **Tech Stack:** `Flutter` `Firebase` <br/>
+> Scaled a massive cross-platform marketplace for 72,000+ boats, handling dynamic pricing algorithms and fleet management with zero UI latency.
+
+<br/>
+
+## 📜 Publications & Certifications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Publications</h3>
+      <b>EEG Based Emotion Classification using Deep Learning Models</b> <br/>
+      <i>International Journal of Innovative Science and Research Technology (IJISRT) • Nov 2023</i> <br/><br/>
+      Benchmarked DNN, GRU, and LSTM architectures for EEG-based emotion classification with comparative confusion-matrix evaluation. <br/>
+      <a href="https://www.researchgate.net/publication/375668956_EEG_Based_Emotion_Classification_using_Deep_Learning_Models">🔗 Read Paper</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Global Certifications</h3>
+      <ul>
+        <li><b>Stanford University (Coursera)</b><br/>Supervised Machine Learning: Regression and Classification <code>[ 100% ]</code></li>
+        <li><b>DeepLearning.AI</b><br/>Advanced Learning Algorithms <code>[ 100% ]</code></li>
+        <li><b>DeepLearning.AI</b><br/>Unsupervised Learning, Recommenders, Reinforcement Learning <code>[ 100% ]</code></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🐍 Activity Graph
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohammedAfthab18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0D9488&icon_color=0D9488&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohammedAfthab18&layout=compact&hide_border=true&bg_color=0D1117&title_color=0D9488&text_color=c9d1d9" alt="Top languages" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedAfthab18/MohammedAfthab18/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedAfthab18/MohammedAfthab18/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/MohammedAfthab18/MohammedAfthab18/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <b>Open to Flutter and frontend roles — let's build something solid.</b><br/>
-  <a href="https://www.linkedin.com/in/mohammed-afthab-4a8a72220/">Reach me on LinkedIn</a>
+  <i>"Design meets engineering."</i><br/>
+  <b>Available for impact.</b>
 </div>
+
+
+improve my special github repository
